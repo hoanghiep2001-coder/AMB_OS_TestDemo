@@ -5,6 +5,11 @@ const BestPA = [
     {
         timeline: "List:",
         data: [
+                 {
+                path: "/OutSource/superMArket_PA_08.html",
+                name: "superMArket_PA_08",
+                dev: "",
+            },
             {
                 path: "/OutSource/GoodSort_Demo_PA_03.html",
                 name: "GoodSort_Demo_PA_03",
